@@ -1,0 +1,40 @@
+.common_style {
+    border: 2px solid red;
+    margin-top: 20px;
+    background-color: #c9e0ff;
+}
+.header_height{
+    height: 60px;
+             
+}
+.hero_height{
+    height: 150px;
+    
+}
+.body_height{
+    height: 180px;
+    width: 180px;
+    border-radius: 180px;
+    
+}
+.body_height1{
+   height: 180px;
+    width: 180px;
+}
+
+
+.slider_height{
+    height: 100px;
+    margin-top: none;
+}
+.footer_height{
+    height: 100px;
+}
+.footer_height1{
+    height: 40px;
+   
+}
+.row{
+   background-color: #96c3fc; 
+    
+}
